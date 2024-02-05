@@ -6,10 +6,11 @@ Ce dépôt git sert de répertoire afin d'avoir une trace écrit/présentation d
 - Permet de consulter les documents par type de formation
 
 ## Tech Stack
-- Powerpoint /word
+- Powerpoint / Word
 - PDF
 - Sharepoint
 - Windows Serveur/Client
+- Oracle VirtualBox
 - Crystal Disk Info
 
 
